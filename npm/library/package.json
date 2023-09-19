@@ -1,0 +1,22 @@
+{
+  "name": "utec-library",
+  "version": "1.0.2",
+  "description": "demo para practica de la utec",
+  "main": "dist/index.js",
+  "files": ["dist", "package.json"],
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "utec",
+    "arquitectura",
+    "canales",
+    "digitales"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
